@@ -1,0 +1,7 @@
+{
+  "name": "testeionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
